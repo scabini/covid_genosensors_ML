@@ -5,7 +5,7 @@ Supporting Information for the paper:
 "Detection of a SARS-CoV-2 Sequence with Genosensors Using Data Analysis Based on Information Visualization and Machine Learning Techniques"
 
 
-The repositoty contains the Machine Learning data computed from SEM images of the genosensors. Matlab files under /COVID-DNA_descriptors/ are organized as:
+This repositoty contains the Machine Learning data computed from SEM images of the genosensors. Matlab files under /COVID-DNA_descriptors/ are organized as:
 
 _scale_method.mat_
 
@@ -26,3 +26,6 @@ _filenames_       -> cell array with the file name of each sample
 _indexes_charc_   -> 
 
 _method_          -> name of the method used for computing features
+
+
+The original SEM images can be downloaded at: http://scg-turing.ifsc.usp.br/data/bases/COVID-DNA_SEM-images.zip
