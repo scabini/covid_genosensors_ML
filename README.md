@@ -1,4 +1,4 @@
-# covid_genosensors_ML
+# Images and Machine Learning data obtained from Genosensors detecting SARS-CoV-2 sequences 
 
 Supporting Information for the paper:
 
